@@ -1,0 +1,33 @@
+#bigbox{
+    width: 100%; 
+    height: 100%;
+     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px 300px 300px 300px 300px 300px;
+    border: 20px solid black;
+    background-color: gray;
+}
+.first{border: 5px solid black;}
+h1{border-bottom: 5px solid red;}
+.second{border: 5px solid black;}
+.third{border: 5px solid black;}
+.capybara{border: 5px solid black;}
+img{position: static;}
+p{font-size: 20px;}
+li{font-size: 20px;}
+.ulu{ color: green;}
+.firstc{border: 5px solid black;}
+.ula{color: red;}
+.secondc{border: 5px solid black;}
+.squirrel{border: 5px solid black;}
+.firsta{border: 5px solid black;}
+.seconda{border: 5px solid black;}
+.mice{border: 5px solid black;}
+.firstb{border: 5px solid black;}
+.secondb{border: 5px solid black;}
+.Rat{border: 5px solid black;}
+.firstd{border: 5px solid black;}
+.secondd{border: 5px solid black;}
+.brats{border: 5px solid black; border-bottom: 10px solid black;}
+.firstt{border: 5px solid black; border-bottom: 10px solid black;}
+.secondt{border: 5px solid black; border-bottom: 10px solid black;}
